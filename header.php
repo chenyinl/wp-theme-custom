@@ -141,6 +141,7 @@ header#masthead.site-header{
 	<div id="page" class="hfeed site">
 		<header id="masthead" class="site-header" role="banner">
 			<ul class="mainmenuul">
+                <li><a class="mainmenu" href="http://blog.cloudurl.com">Blog</a></li>
                 <li><a class="mainmenu" href="http://cloudurl.com/portal.php">Help</a></li>
                 <li><a class="mainmenu" href="http://cloudurl.com/affiliate-program.php">Promote CloudURL</a></li>
                 <li><a class="mainmenu" href="http://cloudurl.com/domainchecker.php">Domains</a></li>
